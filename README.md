@@ -1,5 +1,11 @@
 # Rocketpay
 
+[![API CI](https://github.com/cassiofariasmachado/rocketpay/actions/workflows/api.yml/badge.svg)](https://github.com/cassiofariasmachado/rocketpay/actions/workflows/api.yml)
+
+Repository for my studies of the Elixir path of the 4th [NLW](nextlevelweek.com) edition of [Rocketseat](https://rocketseat.com.br/).
+
+## Setup
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
