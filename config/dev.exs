@@ -5,7 +5,7 @@ config :rocketpay, Rocketpay.Repo,
   username: "postgres",
   password: "postgres",
   database: "rocketpay_dev",
-  hostname: "172.25.184.79",
+  hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 
