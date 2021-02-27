@@ -23,3 +23,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Documentation and resources
+
+* Insomnia file is under `docs` folder, just import it in your Insomnia application
